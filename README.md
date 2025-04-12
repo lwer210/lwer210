@@ -1,42 +1,63 @@
-# Hi there, I'm Sanghoon 👋
+<!-- 상단 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=Hi%20there,%20I'm%20Sanghoon!%20👋&fontSize=45&fontAlign=50&descAlign=50&descSize=25&animation=fadeIn&descPadding=30" />
+</p>
 
-## 🧑‍💻 About Me
-백엔드 개발에 열정을 가진 개발자입니다.  
-매일 1 커밋을 목표로 지속적인 성장과 학습을 추구하고 있으며 현재는 Spring Boot와 Java를 주로 사용하고 있으며, Swift와 Vue.js도 공부 중입니다.  
-향후 기술 스택을 더욱 확장하고, 팀워크를 중요시하는 환경에서 성장하고 싶습니다.
+<!-- 자기소개 -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <h2>안녕하세요! 백엔드 개발자 <strong>이상훈</strong>입니다 💻</h2>
+  <p>🌱 매일 성장하는 개발자 · iOS 및 웹 프론트 도전 중</p>
+</div>
 
-## 🛠️ Tech Stack & Tools
+---
 
-### 💡 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## 🛠 Tech Stack
 
-### 💻 Development Tools
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
 
-### 📦 DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| Back-End | Front-End | Mobile | DevOps / ETC | Database |
+|:--------:|:---------:|:------:|:-------------:|:--------:|
+| <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/JavaScript-FFCC00?style=for-the-badge&logo=javascript&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> |
+</div>
 
-### 💾 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### 💬 Community
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🌱 Currently Learning
 
-## 📚 Study
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 👨‍💻 Swift & UIKit  
+- 📜 JavaScript & TypeScript
+- 🍃 Spring Boot
 
-## 🚀 Project
-- [OQP Collaborative Project](https://github.com/sangHoonProject/OQP_backend) - Spring Boot를 사용한 온라인 퀴즈 프로젝트.
+---
 
-## 🎯 My Goals
-매일 1커밋을 목표로 꾸준히 개발 역량을 쌓아가고 있습니다.  
-이 목표는 코드 작성 및 문제 해결 능력을 지속적으로 향상시키고, 개발자로서의 성장에 큰 도움이 되고 있습니다.  
-항상 새로운 기술을 배우고, 실습을 통해 이를 실현하고 있으며, 커밋을 통해 매일 작은 성취를 느끼며 동기부여를 얻고 있습니다.
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lwer210&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwer210&layout=compact&theme=radical" width="47%"/>
+</div>
+
+---
+
+## 🎯 2025 목표
+
+- 🔄 매일 1커밋 실천 유지  
+- 📲 Swift로 iOS 앱 출시  
+- ☁️ 클라우드 및 DevOps 공부 시작  
+
+---
+
+## 🤝 Contact Me
+
+<p align="center">
+  <a href="mailto:lwer210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/lwer210"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- 하단 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
