@@ -1,9 +1,7 @@
-<!-- 상단 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=Hi%20there,%20I'm%20Sanghoon!%20👋&fontSize=45&fontAlign=50&descAlign=50&descSize=25&animation=fadeIn&descPadding=30" />
 </p>
 
-<!-- 자기소개 -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <h2>안녕하세요! 백엔드 개발자 <strong>이상훈</strong>입니다 💻</h2>
@@ -37,14 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lwer210&show_icons=true&theme=radical" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwer210&layout=compact&theme=radical" width="47%"/>
 </div>
-
----
-
-## 🎯 2025 목표
-
-- 🔄 매일 1커밋 실천 유지  
-- 📲 Swift로 iOS 앱 출시  
-- ☁️ 클라우드 및 DevOps 공부 시작  
 
 ---
 
