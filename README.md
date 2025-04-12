@@ -23,7 +23,7 @@
 
 ## 🌱 Currently Learning
 
-- 👨‍💻 Swift & UIKit  
+- 👨‍💻 SwiftUI & UIKit  
 - 📜 JavaScript & TypeScript
 - 🍃 Spring Boot
 
