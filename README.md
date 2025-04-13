@@ -29,14 +29,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwer210&layout=compact&theme=radical" width="47%"/>
-</div>
-
----
-
 ## 🤝 Contact Me
 
 <p align="center">
